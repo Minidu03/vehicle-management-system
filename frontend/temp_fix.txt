@@ -1,0 +1,2 @@
+// Fix icon imports 
+// Replace TrendingUpIcon with ArrowTrendingUpIcon 
